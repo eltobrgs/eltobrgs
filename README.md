@@ -17,7 +17,7 @@
 ![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgsra&layout=compact) ![eltobrgs's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=compact) ![eltobrgs's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=)
 
 ### contact and social networks 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eltobrgs/)
