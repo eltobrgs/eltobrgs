@@ -15,6 +15,8 @@
 ![JavaScrypt](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=donut&theme=dark)](https://github.com/eltobrgs/github-readme-stats) ![eltobrgs's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=dark)
