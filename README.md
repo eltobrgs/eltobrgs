@@ -1,8 +1,11 @@
 #### Hi!! I'm Elto Borges 🇧🇷💻
 
 •🎓 Instituto Federal do Piauí (IFPI) - [IFPI - Campus Picos](https://www.ifpi.edu.br).
+
 •📚 High School Student | 2nd Year | Integrated Technical Program in Information Technology
+
 •💡 Tech Enthusiast | Passionate about expanding knowledge in technology
+
 •🤝 Seeking Collaboration on innovative projects and learning opportunities
 
 •  currently trying to learn more and more about these technologies
