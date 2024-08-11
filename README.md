@@ -29,8 +29,8 @@
 ## 📊 **My Stats**
 
 <div align="center">
-  <img alt="eltobrgs GitHub Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=monokai"/>
-  <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=compact&langs_count=8&theme=monokai"/>
+  <img alt="eltobrgs GitHub Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=dark"/>
+  <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 
