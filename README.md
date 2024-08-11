@@ -27,8 +27,8 @@
   <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=compact&langs_count=8&theme=gruvbox"/>
 </div>
 
+<br><br>
 
-<br>
 ---
 
 ### 📱 **Contact and Social Networks**
@@ -36,3 +36,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eltobrgs/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5589994042351)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elto-borges-5b90962a8/)
+
