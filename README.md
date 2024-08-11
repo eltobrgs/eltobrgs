@@ -27,13 +27,9 @@
   <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=compact&langs_count=8&theme=gruvbox"/>
 </div>
 
+
+<br>
 ---
-
-
-
-
-
-
 
 ### 📱 **Contact and Social Networks**
 
