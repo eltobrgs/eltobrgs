@@ -24,7 +24,10 @@
 ---
 
 ## 📊 **My Stats**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=donut&theme=dark&card_width=400)](https://github.com/eltobrgs/github-readme-stats) ![eltobrgs's GitHub stats](https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=dark)
+<div align="center">
+  <img alt="eltobrgs GitHub Stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=eltobrgs&show_icons=true&theme=gruvbox"/>
+  <img alt="Top Languages" align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eltobrgs&layout=compact&langs_count=8&theme=gruvbox"/>
+</div>
 
 
 ### contact and social networks 
