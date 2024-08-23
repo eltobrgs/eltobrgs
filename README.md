@@ -1,4 +1,4 @@
-#### Hi!! I'm Elto Borges 🇧🇷💻
+## Hi!! I'm Elto Borges 🇧🇷💻
 
 • 🎓 Instituto Federal do Piauí (IFPI) - [IFPI - Campus Picos](https://www.ifpi.edu.br)  
 • 📚 High School Student | 2nd Year | Integrated Technical Program in Information Technology  
@@ -8,7 +8,7 @@
 ---
 ### 📱 **Contact and Social Networks**
 
-<div align="left">
+<div align="left" text-decoration="none">
   <a href="mailto:eltobrgs@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
