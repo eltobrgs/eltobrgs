@@ -29,7 +29,7 @@
 ---
 ### 🚀 **Currently learning more about these Technologies and Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,cpp,py,spring,react,express,mongodb,postgresql,arduino,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,html,css,cpp,py,spring,react,express,mongodb,postgresql,arduino,raspberrypi)](https://skillicons.dev)
 
 
 ---
